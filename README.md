@@ -1,4 +1,4 @@
-# Cancer-RNA-Seq-Logistic-Regression
+# Logistic-Regression
 ## Q1. What is the objective of this project?
 
 ### A. The objective is to classify different cancer types using RNA-seq gene expression data by applying multiclass logistic regression.
